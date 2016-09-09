@@ -6,7 +6,7 @@ With over 68,000 employees at some 1,200 locations in over 100 countries, the Ku
 
 ### Direct Links
 
-* [IT Professionals: Open positions in Germany](http://external.kuehne-nagel.careers/search/query?where=Estonia&cat=111&top=50)
+* [IT Professionals: Open positions in Germany](http://external.kuehne-nagel.careers/search/query?where=Germany&cat=111&top=50)
 * [IT Professionals: Open positions in Estonia](http://external.kuehne-nagel.careers/search/query?where=Estonia&cat=111&top=50)
 * [IT Professionals: Open positions in USA](https://www.kuehne-nagel.apply2jobs.com/ProfExt/index.cfm?fuseaction=mExternal.showSearchInterface)
 * [Start your Career: Apprenticeship, Internship, Working Students & Graduates](http://www.kn-portal.com/about_us/careers/start_your_career/students_graduates/)
