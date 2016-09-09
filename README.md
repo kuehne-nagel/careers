@@ -21,3 +21,7 @@ Kuehne + Nagel is successful because over 68,000 individuals are engaged and mot
 * [We connect+develop our people](http://www.kn-portal.com/about_us/careers/working-kn/connect/)
 * [We deliver quality+excellence](http://www.kn-portal.com/about_us/careers/working-kn/we_deliver_quality_and_excellence/)
 * [We enable entrepreneurship](http://www.kn-portal.com/about_us/careers/working-kn/we_enable_entrepreneurship/)
+
+<hr>
+
+© 2016 KUEHNE + NAGEL INC All rights reserved
